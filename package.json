@@ -1,5 +1,5 @@
 {
-  "name": "paquete-estadistica",
+  "name": "@richardortizp/paquete-estadistica",
   "version": "1.0.0",
   "description": "Funciones estadisticas y generacion de graficas con Node.js",
   "main": "index.js",
